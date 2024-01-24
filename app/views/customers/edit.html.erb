@@ -1,0 +1,11 @@
+<div class= "content row">
+ <div class= "containerr">
+  <h3>編集画面へ</h3>
+  <%= form_with(model: @customer, local: true) do |form| %>
+   <%= form.text_field :name, placeholder: "お名前" %>
+   <%= form.text_field :phone, placeholder: "電話番号" %>
+   <%= form.submit "変更する" %>
+   <% end %>
+   </div>
+   </div>
+   
