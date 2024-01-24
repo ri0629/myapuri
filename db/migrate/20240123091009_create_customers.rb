@@ -6,7 +6,6 @@ class CreateCustomers < ActiveRecord::Migration[7.0]
       t.string :type
 
 
-
       t.timestamps
     end
   end

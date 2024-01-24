@@ -1,3 +1,4 @@
 Rails.application.routes.draw do
-  resources :customers, only: :index
+  root to: 'customers#index'
+  resources :customers, only: [:index, :new, :create, :edit]
 end

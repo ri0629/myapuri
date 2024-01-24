@@ -1,0 +1,10 @@
+<div class= "contents row">
+ <div class="container">
+ <h3>お客様情報</h3>
+ <%= form_with(model: @customer, local: true) do |form| %>
+ <%= form.text_field :name, placeholder: "お名前" %>
+ <%= form.text_field :phone, placeholder: "電話番号" %>
+ <%= form.submit "登録" %>
+ <% end %>
+  </div>
+</div>
