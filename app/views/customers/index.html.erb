@@ -1,14 +1,14 @@
 <div class="contents row">
    <% @customers.each do |customer| %>
 <div class="content_post" >
-
+ <div class="more">
   <li>
-  <%= button_to '編集', edit_customer_path(customer.id) %>
+  <%= link_to '編集', edit_customer_path(customer.id) %>
   </li>
  
  
  
- 
+  </div>
  
  
  
