@@ -16,6 +16,8 @@ default: &default
   username: root
   password:
   socket: /tmp/mysql.sock
+  host: localhost
+  database: myapuri_development
 
 development:
   <<: *default
@@ -26,6 +28,10 @@ development:
 # Do not set this db to the same as development or production.
 test:
   <<: *default
+  adapter: mysql2
+  username: root
+  password:
+  host: localhost
   database: myapuri_test
 
 # As with config/credentials.yml, you never want to store sensitive information,
@@ -53,3 +59,5 @@ production:
   database: myapuri_production
   username: myapuri
   password: <%= ENV["MYAPURI_DATABASE_PASSWORD"] %>
+  adapter: postgresql
+  url: <%= ENV['DATABASE_URL'] %>
