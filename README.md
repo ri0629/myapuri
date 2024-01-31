@@ -49,7 +49,7 @@ Things you may want to cover:
 
   # 洗い出した要件  
     スプレッドシート
-     [リンクテキスト]https://docs.google.com/spreadsheets/d/1Y3kgQAXKcqXfdQKXHzVp7wqN1AlG2ifdzyHQCoJUxbE/edit?usp=sharing
+     URL https://docs.google.com/spreadsheets/d/1Y3kgQAXKcqXfdQKXHzVp7wqN1AlG2ifdzyHQCoJUxbE/edit?usp=sharing
 
   # データベース設計
    ![Alt text](<ER図 myapuri.png>)
