@@ -24,7 +24,8 @@ Things you may want to cover:
 # My apuri
 
 # アプリケーションの概要
- お客様のお名前、電話番号をすぐに確認できるアプリケーションです
+ 営業担当が顧客の名前、電話番号をすぐに登録・確認でき、業務効率化を図ることができます
+ URL 営業担当が顧客の名前、電話番号をすぐに登録・確認でき、業務効率化を図ることができます
 
 # テスト用アカウント
 
@@ -48,17 +49,21 @@ Things you may want to cover:
 
   # 洗い出した要件  
     スプレッドシート
-     https://docs.google.com/spreadsheets/d/1Y3kgQAXKcqXfdQKXHzVp7wqN1AlG2ifdzyHQCoJUxbE/edit#gid=982722306
+     [リンクテキスト](https://docs.google.com/spreadsheets/d/1Y3kgQAXKcqXfdQKXHzVp7wqN1AlG2ifdzyHQCoJUxbE/edit?usp=sharing)
 
-  # ER図
+  # データベース設計
    ![Alt text](<ER図 myapuri.png>)
     
 
   # 制作中のポイント  
-      実際に現場で必要な情報が登録できるか、常に意識しました。
+      実際に現場で必要な情報が登録できるか、活用できるかどうかを確認するため、前職の同僚に確認してもらいました。
 
   
-  # 開発環境 Ruby on rails ver7.0.0
+  # 開発環境  
+   ・Ruby on rails ver7.0.0
+   ・HTML
+   ・CSS
+   ・Javascript
 
   # 制作時間
       30時間ほど  
