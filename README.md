@@ -60,9 +60,9 @@ Things you may want to cover:
 
   
   # 開発環境  
-   ・Ruby on rails ver7.0.0
-   ・HTML
-   ・CSS
+   ・Ruby on rails ver7.0.0  
+   ・HTML  
+   ・CSS  
    ・Javascript
 
   # 制作時間
