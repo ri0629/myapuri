@@ -25,7 +25,7 @@ Things you may want to cover:
 
 # アプリケーションの概要
  営業担当が顧客の名前、電話番号をすぐに登録・確認でき、業務効率化を図ることができます
- URL 営業担当が顧客の名前、電話番号をすぐに登録・確認でき、業務効率化を図ることができます
+ URL https://myapuri-39484.onrender.com
 
 # テスト用アカウント
 
@@ -49,7 +49,7 @@ Things you may want to cover:
 
   # 洗い出した要件  
     スプレッドシート
-     [リンクテキスト](https://docs.google.com/spreadsheets/d/1Y3kgQAXKcqXfdQKXHzVp7wqN1AlG2ifdzyHQCoJUxbE/edit?usp=sharing)
+     [リンクテキスト]https://docs.google.com/spreadsheets/d/1Y3kgQAXKcqXfdQKXHzVp7wqN1AlG2ifdzyHQCoJUxbE/edit?usp=sharing
 
   # データベース設計
    ![Alt text](<ER図 myapuri.png>)
