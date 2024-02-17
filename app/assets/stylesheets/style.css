@@ -41,5 +41,17 @@ header {
   box-sizing: border-box;
 }
 
+div.contents.row div.content_post {
+  margin: 20px 0;
+  padding: 30px;
+  position: relative;
+  height: 400px;
+  color: #fff;
+  background-size: cover;
+  background-position: center center;
+  border-radius: 3px;
+  box-shadow: 0 0 10px rgba(41, 41, 41, 0.2);
+}
+
 
 
